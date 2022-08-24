@@ -1,4 +1,4 @@
-# MicHelloProject
+# Hello Microverse
 First Hello Microverse Project
 
 ## Built With
