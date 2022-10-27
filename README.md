@@ -6,7 +6,7 @@ Major languages : HTML and CSS
 Frameworks : N/A
 Technologies used : GIT, GITHUB, LINTERS
 
-👤 **Derek**
+👤 **Derek_Akrasi_Konadu**
 
 GitHub: [Derek](https://github.com/obibaadoma)
 LinkedIn: [Derek](https://www.linkedin.com/in/derek-akrasi-konadu-187453151/)
